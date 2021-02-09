@@ -1,0 +1,47 @@
+.container{
+    margin-bottom: 50px;
+}
+.carousel-indicators{
+        width: 10%;
+        height: 14px;
+        margin-left: 500px;
+        border-radius: 5px;
+}
+.buy-now{
+        background: linear-gradient(45deg,#1b1819,#111011);
+        color: #fff;
+        padding: 10px 25px;
+        border: none;
+        border-radius: 7px;
+        margin-top: 10px;
+    }
+    .see-text{
+        text-align: right;
+        color: #FF9D00;
+        font-size: 25px;
+    }
+    #logo{
+        height: 45px;
+        padding-right: 600px;
+    }
+    .card{
+        border: none;
+        border-radius: 7px;
+        box-shadow: 5px 5px 15px lightgray;
+    }
+    .text{
+        margin-bottom: 70px;
+    }
+    .cat-text{
+        text-align: center;
+    }
+    .text-align{
+        text-align: center;
+        padding: 20px;
+    }
+     hr.rounded{
+        color: orange;
+        width: 12%;
+        border-radius: 8px;
+        border-top: 8px solid;
+    }
